@@ -22,11 +22,12 @@ cd build/
 cmake .. && make
 ```
 4) run ctest on the file or just run the executable
-ctest:
+
+- ctest:
 ```
 ctest ./mytest
 ```
-executable:
+- executable:
 ```
 ./my_test
 ``` 
